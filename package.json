@@ -1,8 +1,8 @@
 {
   "name": "firstserver",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Using node modules to craft a server worthy of the big dog",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
